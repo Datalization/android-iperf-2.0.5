@@ -1,8 +1,9 @@
-iperf-2.0.5 for Android
+Iperf-2.0.5 for Android
 =======================
 Requirements
-Iperf - Version 2.0.5
-Android NDK - Version r8b
+
+1) Iperf - Version 2.0.5
+2) Android NDK - Version r8b
 
 Iperf-2.0.5: https://github.com/downloads/thangam-arunx/android-iperf-2.0.5/iperf.2.0.5.zip
 
